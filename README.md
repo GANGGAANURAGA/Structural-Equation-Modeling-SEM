@@ -11,5 +11,5 @@ Tahapan SEM berbasis covariance secara umum adalah sebagai berikut :
 
 # Moderating Structural Equation Modeling (MSEM)
 MSEM merupakan pengembangan dari model regresi dengan variabel moderasi, yang mana bertujuan untuk menguji apakah variabel moderasi yang digunakan atau dihipotesiskan dapat mempengaruhi pengaruh variabel independen terhadap variabel dependen. Secara diagram jalus ilustrasi regresi moderating adalah sebagai berikut :
-
+![image](https://user-images.githubusercontent.com/36166387/81020778-cbdfcd00-8e93-11ea-8620-e8913d4e91c2.png)
 
