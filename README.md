@@ -9,8 +9,7 @@ Tahapan SEM berbasis covariance secara umum adalah sebagai berikut :
 6. Pengujian signifikansi model struktural / pengaruh antar variabel laten
 7. Pengujian kebaikan model secara serentak atau overall goodness of fit
 
-# Moderating Structural Equation Modeling (MSEM)
-MSEM merupakan pengembangan dari model regresi dengan variabel moderasi, yang mana bertujuan untuk menguji apakah variabel moderasi yang digunakan atau dihipotesiskan dapat mempengaruhi pengaruh variabel independen terhadap variabel dependen. Secara diagram jalus ilustrasi regresi moderating adalah sebagai berikut :
-   
-   ![image](https://user-images.githubusercontent.com/36166387/81020778-cbdfcd00-8e93-11ea-8620-e8913d4e91c2.png)
-
+# Moderating Structural Equation Modeling (MSEM) - Metode Ping / Interaksi
+MSEM merupakan pengembangan dari model regresi dengan variabel moderasi, yang mana dalam regresi moderating bertujuan untuk menguji apakah variabel moderasi yang digunakan atau dihipotesiskan dapat mempengaruhi pengaruh variabel independen terhadap variabel dependen. Secara diagram jalus ilustrasi regresi moderating adalah sebagai berikut :
+![image](https://user-images.githubusercontent.com/36166387/81020778-cbdfcd00-8e93-11ea-8620-e8913d4e91c2.png)
+Pada diagram jalur diatas (tahap 1) diharapkan bahwa variabel moderasi signifikan berpengaruh terlebih dahulu, sebelum dilakukan pengujian pada tahap 2 untuk membuktikan apakah variabel moderasi yang digunakan atau dihipotesiskan dapat mempengaruhi pengaruh variabel independen terhadap variabel dependen. Jadi pada kasus moderating, fokus pengujian terhadap hipotesis yang dibangun ditekankan untuk menguji dan membuktikan secara empirik apakah variabel moderasi yang digunakan atau dihipotesiskan dapat mempengaruhi pengaruh variabel independen terhadap variabel dependen. Dari uraian diatas maka yang dikatakan sebagai MSEM adalah pengujian signifikansi variabel laten yang berperan sebagai moderasi, jadi digunakan untuk membuktikan secara empirik apakah variabel laten yang berperan sebagai variabel moderasi tersebut dapat mempengaruhi pengaruh variabel laten eksogen terhadap variabel laten endogen. Sehingga diagram jalur atau path diagram dalam MSEM dapat diilustrasikan sebagai berikut
