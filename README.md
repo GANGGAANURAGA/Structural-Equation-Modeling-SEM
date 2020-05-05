@@ -18,5 +18,5 @@ Pada diagram jalur diatas (tahap 1) diharapkan bahwa variabel moderasi signifika
 
 Tahapan MSEM adalah sebagai berikut :
 1. Melakukan analisis SEM, apakah variabel laten B dan variabel laten Moderasi berpengaruh signifikan terhadap variabel laten A. Pada tahap ini diharapkan variabel laten moderasi berpengaruh signifikan terhadap variabel laten A
-2. Membuat variabel laten baru yang dinamakan variabel laten interaksi (dimana indikatornya adalah hasil perkalian masing-masing indikator dari variabel laten B dan variabel laten moderasi.
+2. Membuat variabel laten baru yang dinamakan variabel laten interaksi (dimana indikatornya adalah hasil perkalian masing-masing indikator dari variabel laten X dan variabel laten moderasi M.
 
