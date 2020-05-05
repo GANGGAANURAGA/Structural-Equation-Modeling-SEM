@@ -14,7 +14,7 @@ MSEM merupakan pengembangan dari model regresi dengan variabel moderasi, yang ma
 ![image](https://user-images.githubusercontent.com/36166387/81020778-cbdfcd00-8e93-11ea-8620-e8913d4e91c2.png)
 Pada diagram jalur diatas (tahap 1) diharapkan bahwa variabel moderasi signifikan berpengaruh terlebih dahulu, sebelum dilakukan pengujian pada tahap 2 untuk membuktikan apakah variabel moderasi yang digunakan atau dihipotesiskan dapat mempengaruhi pengaruh variabel independen terhadap variabel dependen. Jadi pada kasus moderating, fokus pengujian terhadap hipotesis yang dibangun ditekankan untuk menguji dan membuktikan secara empirik apakah variabel moderasi yang digunakan atau dihipotesiskan dapat mempengaruhi pengaruh variabel independen terhadap variabel dependen. Dari uraian diatas maka yang dikatakan sebagai MSEM adalah pengujian signifikansi variabel laten yang berperan sebagai moderasi, jadi digunakan untuk membuktikan secara empirik apakah variabel laten yang berperan sebagai variabel moderasi tersebut dapat mempengaruhi pengaruh variabel laten eksogen terhadap variabel laten endogen. Sehingga diagram jalur atau path diagram MSEM dapat diilustrasikan sebagai berikut :
 
-![image](https://user-images.githubusercontent.com/36166387/81023156-bf5e7300-8e99-11ea-94b8-208cd6cc1d4c.png)
+![image](https://user-images.githubusercontent.com/36166387/81024964-54b03600-8e9f-11ea-9d7b-cc268d5dfa22.png)
 
 Tahapan MSEM adalah sebagai berikut :
 1. Melakukan analisis SEM, apakah variabel laten B dan variabel laten Moderasi berpengaruh signifikan terhadap variabel laten A. Pada tahap ini diharapkan variabel laten moderasi berpengaruh signifikan terhadap variabel laten A
